@@ -34,27 +34,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
----
-
-
-
-<div align="center">
-
-<a>
-  <img height=200  src="https://github-readme-stats.vercel.app/api?username=emaowusu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave">
-</a>
-
-<a href="https://github.com/emaowusu/Visited-Countries-Tracking-Nodejs-app">
-  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs?username=emaowusu&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=highcontrast" />
-</a>
-
-<a>
-  <img height=200  src="https://github-readme-stats.vercel.app/api?username=emaowusu&show_icons=true&theme=radical">
-</a>
-
-</div>
-
-
 <br />
 
 ---
@@ -76,8 +55,34 @@
   Custom Helm charts for deploying scalable microservices.
 </p>
 
+<br>
 
 ---
+
+<br />
+
+<div align="center">
+
+<a>
+  <img height=200  src="https://github-readme-stats.vercel.app/api?username=emaowusu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave">
+</a>
+
+![Owusu's GitHub stats](https://github-readme-stats.vercel.app/api?username=emaowusu&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt)
+
+<a href="https://github.com/emaowusu/Visited-Countries-Tracking-Nodejs-app">
+  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs?username=emaowusu&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=highcontrast" />
+</a>
+
+<a>
+  <img height=200  src="https://github-readme-stats.vercel.app/api?username=emaowusu&show_icons=true&theme=radical">
+</a> 
+
+</div>
+
+---
+
+<br />
+
 
 <p align="center" style="font-size:28px; font-weight:bold;">🤝 Connect With Me </p>
 
