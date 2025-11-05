@@ -36,18 +36,24 @@
 
 ---
 
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=emaowusu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave">
-</a>
+
+
+<div align="center">
 
 <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=emaowusu&show_icons=true&theme=radical">
+  <img height=200  src="https://github-readme-stats.vercel.app/api?username=emaowusu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave">
 </a>
-
 
 <a href="https://github.com/emaowusu/Visited-Countries-Tracking-Nodejs-app">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emaowusu&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=highcontrast" />
+  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs?username=emaowusu&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=highcontrast" />
 </a>
+
+<a>
+  <img height=200  src="https://github-readme-stats.vercel.app/api?username=emaowusu&show_icons=true&theme=radical">
+</a>
+
+</div>
+
 
 <br />
 
