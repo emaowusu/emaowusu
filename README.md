@@ -36,26 +36,22 @@
 
 ---
 
-[![Owusu's GitHub stats](https://github-readme-stats.vercel.app/api?username=emaowusu)](https://github.com/emaowusu/github-readme-stats)
-
-<div>
-  ![Owusu's GitHub stats](https://github-readme-stats.vercel.app/api?username=emaowusu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-</div>
-
-<p>
-  ![Owusu's GitHub stats](https://github-readme-stats.vercel.app/api?username=emaowusu&commits_year=2025)
-</p>
-
-<p>
-  ![Owusu's GitHub stats](https://github-readme-stats.vercel.app/api?username=emaowusu&show_icons=true&theme=radical)
-</p>
-
-<a href="https://github.com/emaowusu/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=emaowusu" />
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=emaowusu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave">
 </a>
-<a href="https://github.com/emaowusu/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emaowusu&layout=compact&langs_count=8&card_width=320" />
+
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=emaowusu&show_icons=true&theme=radical">
 </a>
+
+
+<a href="https://github.com/emaowusu/Visited-Countries-Tracking-Nodejs-app">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emaowusu&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=highcontrast" />
+</a>
+
+<br />
+
+---
 
 <p align="center" style="font-size:28px; font-weight:bold;"> 🧰 Featured Projects </p>
 
