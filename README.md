@@ -1,6 +1,6 @@
-<h2 align="center">Hi there 👋, I'm Emmanuel 👩</h2>
+<h2 align="center">Hi there 👋, I'm Emmanuel 👩‍💻 </h2>
 
-<h4 align="center">Cloud | DevOps | Cybersecurity Enthusiast ☁️👩‍💻</h4>
+<h4 align="center">Cloud | DevOps | Cybersecurity Enthusiast ☁️</h4>
 
 
 ### 🚀 About Me
