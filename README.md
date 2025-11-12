@@ -51,7 +51,7 @@
 <br />
 
 ---
-
+<!-- 
   ***✨ Featured Projects***
 
 | Terraform/Cloud (IaC) ☁️    | Containerization and Orchestration 🐳    | CI/CD Pipelines  🔁  |
@@ -59,7 +59,7 @@
 | [Automating server configuration and package deployment on local servers](https://github.com/emaowusu/ansible-server-configuration)| [Hands-on lab for container orchestration using Kubernetes, Helm, and Minikube.](https://github.com/emaowusu/orchestration-hands-on-lab) | [Local Jenkins setup to automate builds and deployments for sample apps.](https://github.com/emaowusu/jenkins-cicd-local-setup)           |
 | [Prebuilt Terraform modules for VPC, EC2, and IAM setup](https://github.com/emaowusu/terraform-prebuilt-modules) | [Experimenting with container orchestration and scaling](https://github.com/emaowusu/kubernetes-experiments) | [Automated CI/CD pipeline deploying containers to AWS ECS using GitHub Actions and Docker](https://github.com/emaowusu/github-action-aws-ecs) |       
 
----
+--- -->
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=emaowusu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
