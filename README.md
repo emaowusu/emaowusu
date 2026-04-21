@@ -7,7 +7,7 @@
 
 - 🌱 I'm a passionate DevOps Engineer with experience of **automating, monitoring, and scaling infrastructure**. I believe in **building reliable systems through automation, Infrastructure as Code, and continuous delivery practices**.  
 - 💬 Ask me about **Python and Bash Scripting, Kubernetes, Terraform, DevOPs and AWS Tools**  
-- 🎯 Goal for 2025: Build and share impactful open-source projects  
+- 🎯 Goal for 2026: Build and share impactful open-source projects  
 - ⚡ Fun fact: I love automating things and optimizing workflows!
 
 <br />
