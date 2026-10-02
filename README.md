@@ -1,24 +1,51 @@
-<h2 align="center">Hi there 👋, I'm Emmanuel 👩‍💻 </h2>
+<h2 align="center"> EMMANUEL OWUSU-ADDAI👩‍💻 </h2>
 
-<h4 align="center">Cloud | DevSecOps | Cybersecurity Enthusiast ☁️</h4>
+<h3 align="center">DevSecOps Engineer • AWS Cloud Engineering • AI Engineering Enthusiaste</h3>
+
+<h5> DevOps • AI Integration • Automation • Bash Scripting </h5>
+<h5><em> Building scalable and low cost cloud platforms </em></h5>
+
+<br />
+
+<p align="center">
+  <a href="mailto:owusuaddaiemmanuel35@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/emmanuel-owusu-addai-83990b202/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+    <a href="https://t.me/Mr_addai_002" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://github.com/DevOPsWithOwusu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+    <!-- <a href="https://dev.to/emaowusu" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
+  </a> -->
+</p>
 
 
-### 🚀 About Me
 
-- 🌱 I'm a passionate DevOps Engineer with experience of **automating, monitoring, and scaling infrastructure**. I believe in **building reliable systems through automation, Infrastructure as Code, and continuous delivery practices**.  
-- 💬 Ask me about **Python and Bash Scripting, Kubernetes, Terraform, DevOPs and AWS Tools**  
-- 🎯 Goal for 2026: Build and share impactful open-source projects  
-- ⚡ Fun fact: I love automating things and optimizing workflows!
+### 👋 About Me 
 
+I specialize in designing and automating cloud infrastructure that is reliable, scalable, and easier to manage. I enjoy using modern DevOps practices to streamline software delivery, improve system performance, and help teams build and deploy applications with greater confidence.
+
+My technical interests include AWS, Kubernetes, Terraform, Infrastructure as Code, CI/CD, DevOps automation, Python, and Bash scripting. I’m particularly interested in finding practical ways to reduce repetitive work and create efficient engineering workflows.
+
+I’m also passionate about building useful tools and open-source projects that solve real-world infrastructure and automation challenges. In 2026, I’m focused on expanding my open-source contributions, sharing what I learn, and creating projects that can benefit the broader developer community.
 <br />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=emaowusu&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
 </p>
 
----
+<!-- Floating Bubble Section Divider -->
+<img src="bubbles.svg" width="100%" alt="Section Divider" />
 
-<p align="center" style="font-size:28px; font-weight:bold;"> 🚀 Tech I Work With </p>
+
+
+<p align="center" style="font-size:28px; font-weight:bold;"> 🚀 Tech Stack </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
@@ -43,14 +70,14 @@
   <img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarqubecloud&logoColor=white" alt="SonarCloud"/>
   <img src="https://img.shields.io/badge/Trivy-0F5C54?style=for-the-badge&logo=trivy&logoColor=white" alt="Trivy"/>
   <img src="https://img.shields.io/badge/Nexus-1B345F?style=for-the-badge&logo=sonatype&logoColor=white" alt="Nexus"/>
-  <img src="https://img.shields.io/badge/JFrog-41BF47?style=for-the-badge&logo=jfrog&logoColor=white" alt="JFrog"/>
+  <!-- <img src="https://img.shields.io/badge/JFrog-41BF47?style=for-the-badge&logo=jfrog&logoColor=white" alt="JFrog"/> -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
 <br />
-
----
+<!-- Floating Bubble Section Divider -->
+<img src="bubbles.svg" width="100%" alt="Section Divider" />
 <!-- 
   ***✨ Featured Projects***
 
@@ -61,14 +88,18 @@
 
 --- -->
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=emaowusu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 <br />
 
-### 📊 GitHub Stats 
 
 <div align="center">
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=emaowusu&theme=tokyonight"/>
+
+</p>
 
 <a>
   <img height=200  src="https://github-readme-stats.vercel.app/api?username=emaowusu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave">
@@ -86,32 +117,20 @@
 
 <!-- Activity Graph -->
 
-[![Owusu's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emaowusu&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Owusu's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emaowusu&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://raw.githubusercontent.com/emaowusu/emaowusu/output/activity-graph.svg?v=1" alt="username github activity graph">
+</a>
+
 
 </div>
 
----
-
 <br />
 
+<!-- Floating Bubble Section Divider -->
+<img src="bubbles.svg" width="100%" alt="Section Divider" />
 
-<p align="center" style="font-size:28px; font-weight:bold;">🤝 Connect With Me </p>
 
-<p align="center">
-  <a href="mailto:owusuaddaiemmanuel35@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/emmanuel-owusu-addai-83990b202/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-    <a href="https://t.me/Mr_addai_002" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://github.com/DevOPsWithOwusu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-    <a href="https://dev.to/emaowusu" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
-  </a>
-</p>
-
+<!-- <p align="center" style="font-size:28px; font-weight:bold;">🤝 Connect With Me </p> -->
