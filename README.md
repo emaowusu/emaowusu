@@ -1,8 +1,8 @@
-< align="center"> 
-
 <h1 align="center">👨‍💻 EMMANUEL OWUSU-ADDAI</h1> <h3 align="center">DevSecOps Engineer • AWS Cloud Engineer • AI Engineering Enthusiast</h3> <p align="center"> <strong>DevOps • Cloud Engineering • DevSecOps • AI Integration • Automation</strong> </p> <p align="center" > <strong><em>Building scalable, secure, and automated cloud infrastructure.</em></strong> </p> <br /> <p align="center"> <a href="mailto:owusuaddaiemmanuel35@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://www.linkedin.com/in/emmanuel-owusu-addai-83990b202/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/emaowusu" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://t.me/Mr_addai_002" target="_blank"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a> <a href="https://cv-65hp.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"/></a> </p>
 
-### 👋 About Me
+---
+
+<h2> 👋 About Me </h2>
 
 I’m a passionate DevSecOps Engineer focused on automating, monitoring, securing, and scaling cloud infrastructure. I enjoy applying modern DevOps and cloud engineering practices to build reliable systems, streamline software delivery, and improve the overall developer experience.
 
@@ -10,8 +10,11 @@ My technical interests include AWS, Kubernetes, Terraform, Infrastructure as Cod
 
 I also enjoy building practical tools and open-source projects that solve real-world infrastructure and automation challenges. In 2026, I’m focused on expanding my open-source contributions, strengthening my cloud and DevSecOps expertise, and sharing knowledge with the wider engineering community.
 
-## 🚀 Tech Stack
-### ☁️ Cloud & Infrastructure
+--- 
+
+<div align="center">
+<h2>🚀 Tech Stack </h2>
+<h3> ☁️ Cloud & Infrastructure </h3>
 <p align="center"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> </p>
 
 ### ☸️ Containers & Orchestration
@@ -53,8 +56,12 @@ I also enjoy building practical tools and open-source projects that solve real-w
   </a>
 </p>
 
+</div>
 
-### 📈 GitHub Statistics
+---
+
+<h3 align="center">📈 GitHub Statistics</h3>
+
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=emaowusu&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" /> </p> <p align="center"> <a href="https://github.com/emaowusu"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=emaowusu&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Emmanuel's GitHub Statistics" /> </a> <a href="https://github.com/emaowusu"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emaowusu&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" alt="Top Languages" /> </a> 
 
 <a href="https://github-stats-extended.vercel.app/api?username=emaowusu&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent">
@@ -63,9 +70,13 @@ I also enjoy building practical tools and open-source projects that solve real-w
 
 </p>
 
-### 📊 GitHub Activity
+--- 
+
+<h3 align="center">📊 GitHub Activity</h3>
 
 <p align="center"> <a href="https://github.com/emaowusu"> <img src="https://raw.githubusercontent.com/emaowusu/emaowusu/output/activity-graph.svg?v=1" alt="GitHub Activity Graph" width="100%" /> </a> </p>
+
+---
 
 #### 🎯 2026 Goals
 
