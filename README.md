@@ -22,6 +22,7 @@ My technical interests include AWS, Kubernetes, Terraform, Infrastructure as Cod
 
 I also enjoy building practical tools and open-source projects that solve real-world infrastructure and automation challenges. In 2026, I’m focused on expanding my open-source contributions, strengthening my cloud and DevSecOps expertise, and sharing knowledge with the wider engineering community.
 
+<br />
 
 <div align="center">
 <h2>🚀 Tech Stack </h2>
@@ -69,6 +70,8 @@ I also enjoy building practical tools and open-source projects that solve real-w
 
 </div>
 
+<br />
+
 ---
 
 <h3 align="center">📈 GitHub Statistics</h3>
@@ -98,11 +101,13 @@ I also enjoy building practical tools and open-source projects that solve real-w
 
 </div>
 
---- 
+<br />
 
 <h3 align="center">📊 GitHub Activity</h3>
 
 <p align="center"> <a href="https://github.com/emaowusu"> <img src="https://raw.githubusercontent.com/emaowusu/emaowusu/output/activity-graph.svg?v=1" alt="GitHub Activity Graph" width="100%" /> </a> </p>
+
+<br />
 
 ---
 
@@ -120,6 +125,7 @@ I also enjoy building practical tools and open-source projects that solve real-w
 
 📚 Share technical knowledge and learning with the community
 
+<br />
 
 <div align="center">
 
