@@ -1,11 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=EMMANUEL%20OWUSU-ADDAI&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=DevSecOps%20%7C%20Cloud%20Engineer%20%7C%20AI%20Engineering%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Isometra&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hello+Everyone,+I+am+EMMANUEL!;DevSecOps+Engineer;+Cloud+Engineer;+AI+Enthusiast;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Isometra&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hello+Everyone,+I'm+EMMANUEL!;DevSecOps+Engineer;+Cloud+Engineer;+AI+Enthusiast;)](https://git.io/typing-svg)
 
 <h3 align="center">DevSecOps Engineer • AWS Cloud Engineer • AI Engineering Enthusiast</h3> <p align="center"> <strong>DevOps • Cloud Engineering • DevSecOps • AI Integration • Automation</strong> </p> <p align="center" > <strong><em>Building scalable, secure, and automated cloud infrastructure.</em></strong> </p> <br /> <p align="center"> <a href="mailto:owusuaddaiemmanuel35@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://www.linkedin.com/in/emmanuel-owusu-addai-83990b202/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/emaowusu" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://t.me/Mr_addai_002" target="_blank"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a> <a href="https://cv-65hp.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"/></a> </p>
 
-<br />
 
 <p align="center">
   <img
