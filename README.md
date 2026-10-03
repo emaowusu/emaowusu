@@ -1,6 +1,5 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=EMMANUEL%20OWUSU-ADDAI&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=DevSecOps%20%7C%20Cloud%20Engineer%20%7C%20AI%20Engineering%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=EMMANUEL%20OWUSU-ADDAI&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=DevSecOPs%20%20%7C%20%20%7C%20Cloud Engineer%20%7C%20%20%7C%20AI Engineering Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Isometra&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hello+Everyone,+I+am+EMMANUEL!;DevSecOps+Engineer;+Cloud+Engineer;+AI+Enthusiast;)](https://git.io/typing-svg)
 
@@ -41,7 +40,7 @@ I also enjoy building practical tools and open-source projects that solve real-w
 ### 🗄️ Databases & Messaging
 <p align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" /> </p>
 
-### 🔌 Backend & APIs
+### 🔌 Web Dev & APIs
 
 <p align="center">
   <a href="https://nodejs.org/" target="_blank">
@@ -116,21 +115,21 @@ I also enjoy building practical tools and open-source projects that solve real-w
 
 📚 Share technical knowledge and learning with the community
 
-<br />
+---
 
 ## *🤝 You want to collaborate with me? Let's Connect!*
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-owusu-addai-83990b202/)
-[![Gmail](https://img.shields.io/badge/Gmail-Send_a_Mail!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:owusuaddaiemmanuel35@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Send_me_a_Mail!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:owusuaddaiemmanuel35@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Message_Me!-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mr_addai_002)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Whatsapp_Me!-2CA5E0?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233548039794)
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=emaowusu&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile Views" /> </p> <p align="center"> <em>⚡ Automate • Secure • Scale • Innovate</em> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=emaowusu&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile Views" /> </p> 
+
+<p align="center"> <em>⚡ Automate • Secure • Scale • Innovate</em> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 ***⭐ Kindly star my repositories if you find them helpful!***
 </p>
-
-<div>
