@@ -118,7 +118,6 @@ I also enjoy building practical tools and open-source projects that solve real-w
 <div align="center">
 
 ## *🤝 You want to collaborate with me? Let's Connect!*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-owusu-addai-83990b202/)
 [![Gmail](https://img.shields.io/badge/Gmail-Send_me_a_Mail!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:owusuaddaiemmanuel35@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Message_Me!-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mr_addai_002)
@@ -126,6 +125,7 @@ I also enjoy building practical tools and open-source projects that solve real-w
 
 </div>
 
+<br />
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=emaowusu&label=Profile%20Views&color=0A66C2&style=for-the-badge"
@@ -137,5 +137,7 @@ I also enjoy building practical tools and open-source projects that solve real-w
 <p align="center"> <em>⚡ Automate • Secure • Scale • Innovate</em> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-***⭐ Kindly star my repositories if you find them helpful!***
+</p>
+<p align="center"><strong><em>
+⭐ Kindly star my repositories if you find them helpful!</em></strong>
 </p>
