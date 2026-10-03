@@ -22,7 +22,6 @@ My technical interests include AWS, Kubernetes, Terraform, Infrastructure as Cod
 
 I also enjoy building practical tools and open-source projects that solve real-world infrastructure and automation challenges. In 2026, I’m focused on expanding my open-source contributions, strengthening my cloud and DevSecOps expertise, and sharing knowledge with the wider engineering community.
 
---- 
 
 <div align="center">
 <h2>🚀 Tech Stack </h2>
@@ -121,7 +120,7 @@ I also enjoy building practical tools and open-source projects that solve real-w
 
 📚 Share technical knowledge and learning with the community
 
----
+
 <div align="center">
 
 ## *🤝 You want to collaborate with me? Let's Connect!*
