@@ -5,7 +5,14 @@
 
 <h3 align="center">DevSecOps Engineer • AWS Cloud Engineer • AI Engineering Enthusiast</h3> <p align="center"> <strong>DevOps • Cloud Engineering • DevSecOps • AI Integration • Automation</strong> </p> <p align="center" > <strong><em>Building scalable, secure, and automated cloud infrastructure.</em></strong> </p> <br /> <p align="center"> <a href="mailto:owusuaddaiemmanuel35@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://www.linkedin.com/in/emmanuel-owusu-addai-83990b202/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/emaowusu" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://t.me/Mr_addai_002" target="_blank"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a> <a href="https://cv-65hp.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"/></a> </p>
 
----
+<br />
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=emaowusu&label=Profile%20Views&color=0A66C2&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
 
 <h2> 👋 About Me </h2>
 
@@ -124,14 +131,6 @@ I also enjoy building practical tools and open-source projects that solve real-w
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Whatsapp_Me!-2CA5E0?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233548039794)
 
 </div>
-
-<br />
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=emaowusu&label=Profile%20Views&color=0A66C2&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p>
 
 
 <p align="center"> <em>⚡ Automate • Secure • Scale • Innovate</em> 
