@@ -67,18 +67,17 @@ I also enjoy building practical tools and open-source projects that solve real-w
 
 <h3 align="center">📈 GitHub Statistics</h3>
 
-<p align="center"> 
+<div align="center"> 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emaowusu&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)](https://git.io/streak-stats) -->
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=emaowusu&theme=tokyonight&hide_border=true&stroke=00D9FF" alt="GitHub Contribution Streak" /> </p> <p align="center"> <a href="https://github.com/emaowusu"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=emaowusu&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Emmanuel's GitHub Statistics" /> </a> <a href="https://github.com/emaowusu"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emaowusu&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" alt="Top Languages" /> </a> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=emaowusu&theme=tokyonight&hide_border=true&stroke=00D9FF" alt="GitHub Contribution Streak" /> </div> <div align="center"> <a href="https://github.com/emaowusu"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=emaowusu&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Emmanuel's GitHub Statistics" /> </a> <a href="https://github.com/emaowusu"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emaowusu&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" alt="Top Languages" /> </a> 
 
 <a href="https://github-stats-extended.vercel.app/api?username=emaowusu&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent">
 <img src="https://github-stats-extended.vercel.app/api?username=emaowusu&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" width="100%" />
 </a>
-
-</p>
+</div>
 
 
 <div align="center">
@@ -116,17 +115,24 @@ I also enjoy building practical tools and open-source projects that solve real-w
 📚 Share technical knowledge and learning with the community
 
 ---
+<div align="center">
 
 ## *🤝 You want to collaborate with me? Let's Connect!*
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-owusu-addai-83990b202/)
 [![Gmail](https://img.shields.io/badge/Gmail-Send_me_a_Mail!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:owusuaddaiemmanuel35@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Message_Me!-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mr_addai_002)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Whatsapp_Me!-2CA5E0?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233548039794)
 
+</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=emaowusu&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile Views" /> </p> 
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=emaowusu&label=Profile%20Views&color=0A66C2&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
+
 
 <p align="center"> <em>⚡ Automate • Secure • Scale • Innovate</em> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
