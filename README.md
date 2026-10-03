@@ -1,4 +1,10 @@
-<h1 align="center">👨‍💻 EMMANUEL OWUSU-ADDAI</h1> <h3 align="center">DevSecOps Engineer • AWS Cloud Engineer • AI Engineering Enthusiast</h3> <p align="center"> <strong>DevOps • Cloud Engineering • DevSecOps • AI Integration • Automation</strong> </p> <p align="center" > <strong><em>Building scalable, secure, and automated cloud infrastructure.</em></strong> </p> <br /> <p align="center"> <a href="mailto:owusuaddaiemmanuel35@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://www.linkedin.com/in/emmanuel-owusu-addai-83990b202/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/emaowusu" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://t.me/Mr_addai_002" target="_blank"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a> <a href="https://cv-65hp.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"/></a> </p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=EMMANUEL%20OWUSU-ADDAI&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=DevSecOPs%20%20%7C%20%20%7C%20Cloud Engineer%20%7C%20%20%7C%20AI Engineering Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Isometra&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hello+Everyone,+I+am+EMMANUEL!;DevSecOps+Engineer;+Cloud+Engineer;+AI+Enthusiast;)](https://git.io/typing-svg)
+
+<h3 align="center">DevSecOps Engineer • AWS Cloud Engineer • AI Engineering Enthusiast</h3> <p align="center"> <strong>DevOps • Cloud Engineering • DevSecOps • AI Integration • Automation</strong> </p> <p align="center" > <strong><em>Building scalable, secure, and automated cloud infrastructure.</em></strong> </p> <br /> <p align="center"> <a href="mailto:owusuaddaiemmanuel35@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://www.linkedin.com/in/emmanuel-owusu-addai-83990b202/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/emaowusu" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://t.me/Mr_addai_002" target="_blank"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a> <a href="https://cv-65hp.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"/></a> </p>
 
 ---
 
@@ -30,7 +36,7 @@ I also enjoy building practical tools and open-source projects that solve real-w
 <p align="center"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /> </p>
 
 ### 💻 Programming & Scripting
-<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /> <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Scripting" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Scripting" /> </p>
 
 ### 🗄️ Databases & Messaging
 <p align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" /> </p>
@@ -62,13 +68,31 @@ I also enjoy building practical tools and open-source projects that solve real-w
 
 <h3 align="center">📈 GitHub Statistics</h3>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=emaowusu&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" /> </p> <p align="center"> <a href="https://github.com/emaowusu"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=emaowusu&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Emmanuel's GitHub Statistics" /> </a> <a href="https://github.com/emaowusu"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emaowusu&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" alt="Top Languages" /> </a> 
+<p align="center"> 
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emaowusu&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)](https://git.io/streak-stats) -->
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=emaowusu&theme=tokyonight&hide_border=true&stroke=00D9FF" alt="GitHub Contribution Streak" /> </p> <p align="center"> <a href="https://github.com/emaowusu"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=emaowusu&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Emmanuel's GitHub Statistics" /> </a> <a href="https://github.com/emaowusu"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emaowusu&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" alt="Top Languages" /> </a> 
 
 <a href="https://github-stats-extended.vercel.app/api?username=emaowusu&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent">
 <img src="https://github-stats-extended.vercel.app/api?username=emaowusu&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" width="100%" />
 </a>
 
 </p>
+
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emaowusu&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emaowusu&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emaowusu&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emaowusu&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emaowusu&theme=tokyonight&utcOffset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
 
 --- 
 
@@ -92,5 +116,21 @@ I also enjoy building practical tools and open-source projects that solve real-w
 
 📚 Share technical knowledge and learning with the community
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=emaowusu&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile Views" /> </p> <p align="center"> <em>⚡ Automate • Secure • Scale • Innovate</em> </p>
+<br />
 
+## *🤝 You want to collaborate with me? Let's Connect!*
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-owusu-addai-83990b202/)
+[![Gmail](https://img.shields.io/badge/Gmail-Send_a_Mail!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:owusuaddaiemmanuel35@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Message_Me!-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mr_addai_002)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Whatsapp_Me!-2CA5E0?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233548039794)
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=emaowusu&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile Views" /> </p> <p align="center"> <em>⚡ Automate • Secure • Scale • Innovate</em> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+***⭐ Kindly star my repositories if you find them helpful!***
+</p>
+
+<div>
